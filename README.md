@@ -22,7 +22,7 @@ The latest major release is [.NET 5.0](release-notes/5.0). The latest patch upda
 * [.NET Core Announcements](https://github.com/dotnet/announcements)
 * [.NET Core blog](https://blogs.msdn.microsoft.com/dotnet/tag/net-core/)
 
-## Getting help
+## Getting helps
 
 * [File an issue](Documentation/core-repos.md)
 * [Ask on Stack Overflow](https://stackoverflow.com/questions/tagged/.net-core)
