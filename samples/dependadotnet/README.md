@@ -23,7 +23,7 @@ You can uninstall the tool using the following command.
 dotnet tool uninstall -g dependadotnet
 ```
 
-## Usage
+## Usages
 
 `dependadotnet [path-to-repo-root]`
 
